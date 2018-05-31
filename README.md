@@ -1,4 +1,4 @@
-# useful-links
+# Useful links
 A set of useful resources
 
 ## Git
