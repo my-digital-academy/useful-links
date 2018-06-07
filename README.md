@@ -16,3 +16,6 @@ A set of useful resources
 
 ## Images
 - [Google JPEG compression](https://github.com/google/guetzli)
+
+## Tools
+- [caniuse.com: Browser support tables for modern web technologies](https://caniuse.com)
