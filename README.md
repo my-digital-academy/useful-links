@@ -9,6 +9,8 @@ A set of useful resources
 
 ## Javascript
 
+- [Dom Events Bubbling and capturing](https://javascript.info/bubbling-and-capturing)
+
 ## Css
 - [Pure CSS Oil Painting - by Diana Smith aka cyanHarlow](http://diana-adrianne.com/purecss-francine)
 - [Rendering performance: Pixel pipeline](https://developers.google.com/web/fundamentals/performance/rendering)
