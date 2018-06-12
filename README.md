@@ -15,6 +15,7 @@ A set of useful resources
 - [Pure CSS Oil Painting - by Diana Smith aka cyanHarlow](http://diana-adrianne.com/purecss-francine)
 - [Rendering performance: Pixel pipeline](https://developers.google.com/web/fundamentals/performance/rendering)
 - [Rendering triggers for CSS](https://csstriggers.com)
+- [CSS specificity](http://cssspecificity.com)
 
 ## Images
 - [Google JPEG compression](https://github.com/google/guetzli)
