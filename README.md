@@ -10,6 +10,8 @@ A set of useful resources
 ## Javascript
 
 - [Dom Events Bubbling and capturing](https://javascript.info/bubbling-and-capturing)
+- [Module pattern](https://toddmotto.com/mastering-the-module-pattern)
+- [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
 
 ## Css
 - [Pure CSS Oil Painting - by Diana Smith aka cyanHarlow](http://diana-adrianne.com/purecss-francine)
