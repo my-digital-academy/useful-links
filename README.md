@@ -12,6 +12,8 @@ A set of useful resources
 - [Dom Events Bubbling and capturing](https://javascript.info/bubbling-and-capturing)
 - [Module pattern](https://toddmotto.com/mastering-the-module-pattern)
 - [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
+- [debounce ;) optimize events](https://davidwalsh.name/javascript-debounce-function)
+- [setTimeout vs setInterval](http://jsfiddle.net/GustvandeWal/295jqqqb/)
 
 ## Css
 - [Pure CSS Oil Painting - by Diana Smith aka cyanHarlow](http://diana-adrianne.com/purecss-francine)
