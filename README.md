@@ -14,6 +14,8 @@ A set of useful resources
 - [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
 - [debounce ;) optimize events](https://davidwalsh.name/javascript-debounce-function)
 - [setTimeout vs setInterval](http://jsfiddle.net/GustvandeWal/295jqqqb/)
+- [new, Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+- [PWA: Progressive web apps](https://developers.google.com/web/progressive-web-apps/)
 
 ## Css
 - [Pure CSS Oil Painting - by Diana Smith aka cyanHarlow](http://diana-adrianne.com/purecss-francine)
